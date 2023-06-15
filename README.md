@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eliza Sarah
 - 👀 I’m interested in development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and DSA
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me elizaasaarah@gmail.com
 
